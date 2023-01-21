@@ -1,13 +1,5 @@
 # 🧙‍♂️ Sean Don
-
-- 🔭 I’m currently working on becoming a full stack developer
-- 🌱 I’m currently learning web development, networking, cryptography
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help in cryptography
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
+**`Digital Nomad (Developer/Cryptographer/Creator)`**
 
 ---
 
