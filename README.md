@@ -1,4 +1,4 @@
-# 🧙‍♂️ Sean Don
+# 🔑 Sean Don
 **`Digital Nomad (Developer/Cryptographer/Creator)`**
 
 ---
